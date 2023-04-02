@@ -1,0 +1,28 @@
+how to run 
+
+open anaconda prompt from search
+
+type 
+
+cd Proactive Warning System( enter )
+
+type 
+
+set FLASK_APP=server.py ( enter )
+
+type 
+
+python -m flask run --host 127.0.0.1 --port 5000  ( u will get ip address then copy this link and paste in chrome website will open http://127.0.0.1:5000/)
+
+
+for Jupiter code to run 
+
+open anaconda prompt from search
+
+type 
+
+cd proactive jupyter( enter )
+
+type
+
+jupyter notebook Proactive.ipynb
